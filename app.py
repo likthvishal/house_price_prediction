@@ -40,6 +40,7 @@ def predict():
         ]
         
         # Make prediction
+        #testing
         features_array = np.array(features).reshape(1, -1)
         features_scaled = model_data['scaler'].transform(features_array)
         prediction = model_data['model'].predict(features_scaled)[0]

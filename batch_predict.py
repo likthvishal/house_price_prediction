@@ -231,6 +231,7 @@ def main():
         return
     
     # Make predictions
+    #testing
     print(f"\n🚀 Making predictions for {len(houses_data)} houses...")
     predictions = predict_batch(model_data, houses_data)
     

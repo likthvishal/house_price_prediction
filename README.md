@@ -72,7 +72,7 @@ Where:
    http://localhost:5000
    ```
 
-## 📊 Model Performance
+## 📊 Model performance
 
 The model typically achieves:
 - **R² Score**: 0.85+ (85%+ variance explained)
@@ -183,3 +183,4 @@ This project is open source and available under the MIT License.
 ---
 
 **Happy House Hunting! 🏠✨**
+
